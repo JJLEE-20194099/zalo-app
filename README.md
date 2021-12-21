@@ -1,0 +1,1 @@
+This is a project about how I learn react native by building zalo app
